@@ -1,0 +1,1 @@
+web: gunicorn dj4e_KLP1.wsgi --log-file -
